@@ -3,6 +3,8 @@
 
 #Visual F# Tools
 
+[![Join the chat at https://gitter.im/kekyo/visualfsharp](https://badges.gitter.im/kekyo/visualfsharp.svg)](https://gitter.im/kekyo/visualfsharp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Windows build
 
 |            |Debug (Build only)|Release (Tests Part 1)|Release (Tests Part 2)|
